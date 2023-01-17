@@ -1,1 +1,1 @@
-# video-courses
+# Video Courses
